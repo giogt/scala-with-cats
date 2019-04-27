@@ -1,2 +1,6 @@
 # scala-with-cats
-Scala With Cats book exercises
+
+This repo contains my personal implementation of the exercises included in the
+great Functional Programming book
+[Scala With Cats](https://underscore.io/books/scala-with-cats/).
+
