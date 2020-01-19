@@ -1,5 +1,5 @@
 organization := "giogt.cats"
-scalaVersion := "2.12.8"
+scalaVersion := "2.12.10"
 
 lazy val v = new {
   val slf4j   = "1.7.25"
